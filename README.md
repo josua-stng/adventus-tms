@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on My Personal Projects
 - 🌱 I’m currently learning Front End Web Development
-- 📫 How to reach me: <a href="https://www.google.com/"> google </a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/adventus-totti-mariano-simbolon-a87705211/" target="_blank">LinkedIn</a> | 
 <!--
 
 - 👯 I’m looking to collaborate on ...
