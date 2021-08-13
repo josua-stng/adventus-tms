@@ -1,5 +1,8 @@
 ### Hi there 👋
-My name is Adventus Totti Mariano Simbolon
+
+### My name is Adventus Totti Mariano Simbolon
+### I'm a student from Indonesia and I'm a Front End Web Developer
+### Nice to meet you
 <!--
 **Adventus-TMS/Adventus-TMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
