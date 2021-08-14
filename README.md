@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Front End Web Development
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/adventus-totti-mariano-simbolon-a87705211/" target="_blank">LinkedIn</a>
 <hr>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adventus-tms&theme=dracula&show_icons=true)
+-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adventus-tms&theme=dracula&show_icons=true)
 
 <!--
 
