@@ -11,7 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/adventus-totti-mariano-simbolon-a87705211/" target="_blank">LinkedIn</a>
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adventus-tms&theme=algolia&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adventus-tms&layout=compact&theme=algolia)](https://github.com/adventus-tms/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 <!--
 
